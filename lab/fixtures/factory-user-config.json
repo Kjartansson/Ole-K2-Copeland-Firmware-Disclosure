@@ -1,0 +1,1 @@
+{"id":1,"username":"Admin","password_mode":"pbkdf2","password_salt":"lab","password_iterations":5000,"password_hash":"4ec2b3972b2999a834cc9a83669395b80894bd64151bacf2a2b6eb8a31b0ab27","password_expiration":-2,"enabled":true,"expiration_date":0,"profile":0,"creation_date":1761868800,"label":null,"language":"en-GB"}

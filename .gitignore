@@ -1,0 +1,45 @@
+# Local environments and generated Python files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Proprietary firmware, recovered images, and lab build artifacts
+build/
+extracted/
+*.epkg
+*.sfub
+*.xw5
+*.xwb
+*.zip
+*.squashfs
+*.sqlite
+*.sqlite3
+
+# Credentials, sessions, keys, and network captures
+.env
+*.pem
+*.key
+*.pcap
+*.pcapng
+*session*
+*cookie*
+
+# Personal or remote-device material must never be committed
+personal*
+*personal*
+*OWNED-DEVICE*
+
+# Raw evidence can contain private configuration and identifiers
+*.log
+results/*
+!results/README.md
+!results/evo-factory-password-reset.json
+lab/results/
+lab/rootfs/
+
+# Keep only official firmware hash manifests
+firmware/*
+!firmware/SHA256SUMS
+!firmware/reference/
+firmware/reference/*
+!firmware/reference/SHA256SUMS
