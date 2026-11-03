@@ -5,11 +5,10 @@
 Independent, evidence-first security research on legacy Copeland/Dixell XWEB
 controllers and related E2/E3/Site Supervisor firmware.
 
-> **Disclosure status: PRIVATE.** This repository is prepared for coordinated
-> disclosure through Copeland product security. It must remain private until
-> Ole-k2 explicitly approves public release. No personal information, personal
-> remote/test-device identifiers, customer data, session tokens, or raw device
-> captures are included.
+> **Disclosure status: PUBLIC.** Public release was approved by Ole-k2 on
+> 2026-11-03 as part of coordinated disclosure through Copeland product
+> security. No personal information, personal remote/test-device identifiers,
+> customer data, session tokens, or raw device captures are included.
 
 ## Purpose
 

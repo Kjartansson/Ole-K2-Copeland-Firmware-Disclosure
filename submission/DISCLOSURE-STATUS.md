@@ -6,9 +6,9 @@ Vendor channel: https://www.copeland.com/en-gb/product-security-resources
 
 ## Repository state
 
-This copy is private pending Ole-k2's explicit public-release approval. It
-contains no personal remote/test-device information, private configuration,
-session identifiers, personal account names, or raw device captures.
+Public release was approved by Ole-k2 on 2026-11-03. This copy contains no
+personal remote/test-device information, private configuration, session
+identifiers, personal account names, or raw device captures.
 
 ## Vendor response
 
